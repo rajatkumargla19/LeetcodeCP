@@ -13,4 +13,16 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
+## Array
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
