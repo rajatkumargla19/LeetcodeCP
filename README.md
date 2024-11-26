@@ -45,4 +45,8 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
