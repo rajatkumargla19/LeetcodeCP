@@ -10,6 +10,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2580-circular-sentence) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3451-string-compression-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
@@ -66,6 +67,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
 | ------- |
