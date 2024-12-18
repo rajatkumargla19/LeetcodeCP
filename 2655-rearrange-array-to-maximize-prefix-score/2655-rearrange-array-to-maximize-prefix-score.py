@@ -1,31 +1,16 @@
 class Solution:
     def maxScore(self, nums: List[int]) -> int:
+        # KABADA QUESTION THERE IS NO NEED TO WASTE TIME
+        # Approach: sort the arr in decreasing order and then count the positives in the prefix_sum
+        # My approach: first i have sorted arr then using a prefix_sum integer variable, I have checked from the last whether prefix_sum is negative at any stage then return res at the same stage.....
+        # This soultion is O(nlogn) TC and O(1) space complexity.....
+        nums.sort()
         n=len(nums)
-        positive=[]
-        negative=[]
-        zeros=0
-        for i in range(n):
-            if nums[i]==0:
-                zeros+=1
-            elif nums[i]>0:
-                positive.append(nums[i])
-            else:
-                negative.append(nums[i])
-        if zeros:
-            positive.extend([0]*zeros)
-        print(positive)
-        negative.sort()
-        print(negative)
-        for i in range(len(negative)-1,-1,-1):
-            positive.append(negative[i])
-        print(positive)
-        res=0
         prefix_sum=0
-        for i in range(n):
-            prefix_sum+=positive[i]
-            if prefix_sum>0:
-                res+=1
+        res=0
+        for i in range(n-1,-1,-1):
+            prefix_sum+=nums[i]
+            if prefix_sum>0:res+=1
+            if prefix_sum<0:
+                return res
         return res
-
-        
-
