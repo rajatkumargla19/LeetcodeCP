@@ -20,6 +20,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
+| [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
@@ -44,6 +45,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -90,6 +92,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -144,4 +147,8 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
