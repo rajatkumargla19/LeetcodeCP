@@ -54,6 +54,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -78,6 +79,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -122,6 +124,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
