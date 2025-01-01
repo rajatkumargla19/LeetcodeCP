@@ -8,6 +8,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2580-circular-sentence) |
@@ -118,6 +119,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
