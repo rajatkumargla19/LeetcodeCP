@@ -8,6 +8,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -68,6 +69,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -75,6 +77,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Sliding Window
 |  |
@@ -109,6 +112,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
+| [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
