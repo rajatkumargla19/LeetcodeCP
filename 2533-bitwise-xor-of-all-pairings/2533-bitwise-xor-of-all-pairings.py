@@ -6,18 +6,21 @@ class Solution:
         # this question contains only simple observation related to XOR bitwise operator   
         n1,n2=len(nums1),len(nums2)
         res=0
+        # WHEN both arr has even number of elements then resultant will be directly zero based on XOR observation 
         if n1%2==0 and n2%2==0:
             return 0
-        elif n1%2==1 and n2%2==0:
+        if n1%2==1:
             for i in range(n2):
                 res^=nums2[i]
-        elif n1%2==0 and n2%2==1:
+        # when only n2 arr has odd number of elements then only it will participate in resultant XOR
+        if n2%2==1:
             for i in range(n1):
                 res^=nums1[i]
-        else:
-            for i in range(n1):
-                res^=nums1[i]
-            for i in range(n2):
-                res^=nums2[i]
+        # else:
+        #     # when both arr has odd number of elements then in the calculation the resultant XOR both arr will participate
+        #     for i in range(n1):
+        #         res^=nums1[i]
+        #     for i in range(n2):
+        #         res^=nums2[i]
         return res
 
