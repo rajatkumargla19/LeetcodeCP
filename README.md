@@ -59,6 +59,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -69,6 +70,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Graph
 |  |
@@ -167,6 +170,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,4 +251,8 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2456-construct-smallest-number-from-di-string) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
