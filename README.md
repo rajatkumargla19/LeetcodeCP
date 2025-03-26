@@ -42,6 +42,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -78,6 +79,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -153,6 +155,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2685-first-completely-painted-row-or-column) |
 ## Simulation
 |  |
@@ -187,6 +190,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
