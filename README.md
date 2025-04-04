@@ -61,6 +61,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
