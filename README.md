@@ -68,6 +68,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Counting
 |  |
 | ------- |
