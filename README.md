@@ -103,6 +103,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -206,6 +207,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
