@@ -45,6 +45,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
@@ -180,6 +181,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
