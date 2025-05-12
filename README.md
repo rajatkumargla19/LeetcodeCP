@@ -49,6 +49,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
+| [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -93,6 +94,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -109,6 +111,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
+| [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -258,6 +261,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
