@@ -24,6 +24,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3194-find-words-containing-character](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3194-find-words-containing-character) |
 | [3451-string-compression-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1656-count-good-triplets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
