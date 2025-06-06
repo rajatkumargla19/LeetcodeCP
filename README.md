@@ -43,6 +43,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0575-distribute-candies](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -150,6 +151,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
+| [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -279,6 +281,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0806-domino-and-tromino-tiling](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0806-domino-and-tromino-tiling) |
+| [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 ## Enumeration
 |  |
 | ------- |
