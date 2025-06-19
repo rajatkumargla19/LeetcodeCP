@@ -65,6 +65,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -109,6 +110,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -194,6 +196,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
 | [2509-minimize-xor](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2509-minimize-xor) |
