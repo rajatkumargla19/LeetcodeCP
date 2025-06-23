@@ -1,13 +1,11 @@
 class Solution:
     def maxScoreSightseeingPair(self, values: List[int]) -> int:
         n=len(values)
-        prefix=[values[0]]
-        for i in range(1,n):
-            prefix.append(max(prefix[-1],values[i]+i))
-        print(prefix)
+        max_so_far=values[0]+0
         res=0
         for i in range(1,n):
-            res=max(res,prefix[i-1]+values[i]-i)
+            res=max(res,max_so_far+values[i]-i)
+            max_so_far=max(max_so_far,values[i]+i)
         return res
 
         
