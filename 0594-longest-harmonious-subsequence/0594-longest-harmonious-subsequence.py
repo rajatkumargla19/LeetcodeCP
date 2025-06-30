@@ -9,7 +9,7 @@ class Solution:
                 freq[nums[i]]+=1
         res=0
         for i in freq:
-            maxx=max( (freq[i-1] if i-1 in freq else 0),(freq[i+1] if i+1 in freq else 0) )
-            res=max(res, freq[i]+maxx if maxx else 0 )
+            predecessorORsuccessor=max( (freq[i-1] if i-1 in freq else 0),(freq[i+1] if i+1 in freq else 0) )
+            res=max(res, freq[i]+predecessorORsuccessor if predecessorORsuccessor else 0 )
         return res
         
