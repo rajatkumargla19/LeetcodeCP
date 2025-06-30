@@ -41,6 +41,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0575-distribute-candies](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
@@ -108,6 +109,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0075-sort-colors](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
@@ -124,6 +126,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [0575-distribute-candies](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -146,6 +149,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -155,6 +159,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
