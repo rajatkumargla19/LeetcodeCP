@@ -258,6 +258,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -353,4 +354,8 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
