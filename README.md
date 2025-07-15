@@ -22,6 +22,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3396-valid-word) |
 | [3451-string-compression-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3617-find-the-original-typed-string-i) |
