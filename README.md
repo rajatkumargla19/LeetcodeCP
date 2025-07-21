@@ -10,6 +10,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1537-maximum-score-after-splitting-a-string) |
