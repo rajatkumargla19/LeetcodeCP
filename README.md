@@ -72,6 +72,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
