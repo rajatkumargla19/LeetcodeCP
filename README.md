@@ -106,6 +106,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2509-minimize-xor) |
@@ -267,6 +268,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
@@ -372,4 +374,8 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
