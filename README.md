@@ -121,6 +121,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -140,6 +141,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0575-distribute-candies](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
+| [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -166,6 +168,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -271,6 +274,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
@@ -324,6 +328,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
+| [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
