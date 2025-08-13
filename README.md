@@ -275,6 +275,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
@@ -386,4 +387,5 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
