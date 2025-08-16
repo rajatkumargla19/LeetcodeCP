@@ -223,6 +223,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
@@ -282,6 +283,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
