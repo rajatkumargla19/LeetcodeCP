@@ -59,6 +59,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1510-find-lucky-integer-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1580-shuffle-the-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1580-shuffle-the-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1656-count-good-triplets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1656-count-good-triplets) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
@@ -186,6 +187,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-k-radius-subarray-averages) |
@@ -334,6 +336,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Enumeration
 |  |
