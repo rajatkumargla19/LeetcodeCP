@@ -15,30 +15,27 @@ class Solution:
         move=True # true means up
         i,j=0,0
         while i<m and j<n:
+            res.append(mat[i][j])
             if move:
-                res.append(mat[i][j])
+                # 
                 while i>0 and j<n-1:
                     i-=1
                     j+=1
                     res.append(mat[i][j])
                 else:
-                    if j==n-1:
-                        # if i<m:i+=1
-                        i+=1
-                    else:
-                        j+=1
+                    if j==n-1:i+=1
+                    else:j+=1
                     move=not(move)
             else:
-                res.append(mat[i][j])
+                # This else content is completely opposite of above written loop 'while'
+                # res.append(mat[i][j])
                 while i<m-1 and j>0:
                     j-=1
                     i+=1
                     res.append(mat[i][j])
                 else:
-                    if i==m-1:
-                        j+=1
-                    else:
-                        i+=1
+                    if i==m-1:j+=1
+                    else:i+=1
                     move=not(move)
         return res
 
