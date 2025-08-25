@@ -12,11 +12,11 @@ class Solution:
         m=len(mat)
         n=len(mat[0])
         res=[]
-        move=True # true means up
+        upside=True # true means up
         i,j=0,0
         while i<m and j<n:
             res.append(mat[i][j])
-            if move:
+            if upside:
                 while i>0 and j<n-1:
                     i-=1
                     j+=1
@@ -33,7 +33,7 @@ class Solution:
                 else:
                     if i==m-1:j+=1
                     else:i+=1
-            move=not(move)
+            upside=not(upside)
         return res
 
 # res=[1,2,4,7,5,3,6,8,9]
