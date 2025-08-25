@@ -23,8 +23,8 @@ class Solution:
                     res.append(mat[i][j])
                 else:
                     if j==n-1:
-                        if i<m:
-                            i+=1
+                        # if i<m:i+=1
+                        i+=1
                     else:
                         j+=1
                     move=not(move)
