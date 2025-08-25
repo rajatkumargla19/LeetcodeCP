@@ -45,6 +45,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
 | [0575-distribute-candies](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
@@ -243,6 +244,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2685-first-completely-painted-row-or-column) |
@@ -250,6 +252,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2692-take-gifts-from-the-richest-pile) |
