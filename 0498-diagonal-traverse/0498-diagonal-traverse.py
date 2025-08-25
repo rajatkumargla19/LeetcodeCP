@@ -25,10 +25,9 @@ class Solution:
                 else:
                     if j==n-1:i+=1
                     else:j+=1
-                    move=not(move)
+                    # move=not(move)
             else:
                 # This else content is completely opposite of above written loop 'while'
-                # res.append(mat[i][j])
                 while i<m-1 and j>0:
                     j-=1
                     i+=1
@@ -36,7 +35,7 @@ class Solution:
                 else:
                     if i==m-1:j+=1
                     else:i+=1
-                    move=not(move)
+            move=not(move)
         return res
 
 # res=[1,2,4,7,5,3,6,8,9]
