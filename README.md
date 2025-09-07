@@ -55,6 +55,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -295,6 +296,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
