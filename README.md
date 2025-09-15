@@ -10,6 +10,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
@@ -54,6 +55,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
 | [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
@@ -157,6 +159,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
