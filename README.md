@@ -10,6 +10,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1508-longest-happy-prefix) |
@@ -156,6 +157,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
