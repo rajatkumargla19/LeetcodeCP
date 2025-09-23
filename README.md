@@ -6,6 +6,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0165-compare-version-numbers) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
@@ -225,6 +226,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0075-sort-colors) |
+| [0165-compare-version-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
