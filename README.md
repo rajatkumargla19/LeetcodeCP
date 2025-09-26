@@ -124,6 +124,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3827-implement-router) |
+| [4005-maximum-total-subarray-value-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4005-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4005-maximum-total-subarray-value-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4005-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
 | ------- |
