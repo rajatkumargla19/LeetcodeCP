@@ -55,6 +55,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0575-distribute-candies](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
@@ -142,6 +143,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -229,6 +231,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0165-compare-version-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
@@ -239,6 +242,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
+| [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -251,6 +255,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0135-candy](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
