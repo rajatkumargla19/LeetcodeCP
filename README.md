@@ -289,6 +289,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -334,6 +335,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
+| [1642-water-bottles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2307-replace-non-coprime-numbers-in-array) |
