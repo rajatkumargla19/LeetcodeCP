@@ -296,6 +296,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2324-find-triangular-sum-of-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3336-water-bottles-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
@@ -346,6 +347,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3462-vowels-game-in-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3830-find-closest-person](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3830-find-closest-person) |
