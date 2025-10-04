@@ -44,6 +44,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
@@ -232,6 +233,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
@@ -257,6 +259,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0605-can-place-flowers) |
