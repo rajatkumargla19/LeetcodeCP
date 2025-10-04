@@ -6,9 +6,10 @@ class Solution:
         max_water=-1000000000000
         while i<j:
             current_water= (j-i)*min(height[i],height[j]);
-            if current_water>max_water:
-                max_water=current_water
-            if height[i]<height[j]:
+            # if current_water>max_water:
+            #     max_water=current_water
+            max_water=max(max_water,current_water)
+            if height[i]<=height[j]:
                 i+=1
             else:
                 j-=1
