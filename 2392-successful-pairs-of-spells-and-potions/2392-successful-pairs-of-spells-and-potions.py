@@ -1,8 +1,7 @@
 class Solution:
     def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
-        'sort potion and find found=ceil(success/spells[i]) for each array element. find element greater  than or equal to the found using binary search'
-
-        
+        ' Approach:: sort potion and find found=ceil(success/spells[i]) for each array element. find element greater than or equal to the found using binary search...'
+        #  udayveer sukhpal 
         potions.sort()
         result=[]
         sp=len(spells)
