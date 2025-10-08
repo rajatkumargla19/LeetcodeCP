@@ -92,6 +92,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2459-minimum-hours-of-training-to-win-a-competition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2459-minimum-hours-of-training-to-win-a-competition) |
@@ -156,6 +157,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -242,6 +244,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -252,6 +255,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
