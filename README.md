@@ -124,6 +124,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -167,6 +168,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2888-minimum-index-of-a-valid-split](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
 | [3321-type-of-triangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3321-type-of-triangle) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -285,6 +287,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4005-maximum-total-subarray-value-i) |
 ## Matrix
