@@ -7,18 +7,21 @@ class Solution:
         x=0
         res=0
 
-        while n>0:
-            if n>7:
-                res+=(28+x*7)
-            else:
-                res+=(n*(n+1))//2+x*n
-            n-=7
-            x+=1
-        return res
-        # 28 , 35+ 21+12
+        # while n>0:
+        #     if n>7:
+        #         res+=(28+x*7)
+        #     else:
+        #         res+=(n*(n+1))//2+x*n
+        #     n-=7
+        #     x+=1
+        # return res
+        # # 28 , 35+ 21+12
+        r=n%7
+        d=n//7
+        f=d*(d-1)//2
+        return (d*28)+ (7*(f if d else 0)) + (r*(r+1))//2+ d*r
 
-
-
+                # 56           7               21              
         
 
 
