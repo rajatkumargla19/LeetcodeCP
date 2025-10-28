@@ -125,6 +125,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -315,6 +316,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3336-water-bottles-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
@@ -330,6 +332,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
