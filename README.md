@@ -135,6 +135,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4005-maximum-total-subarray-value-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Bit Manipulation
@@ -211,6 +212,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -296,6 +298,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [4005-maximum-total-subarray-value-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4005-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
@@ -388,11 +391,13 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
