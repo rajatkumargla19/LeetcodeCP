@@ -10,7 +10,7 @@ class Solution:
         for r in range(n+1):
             for c in range(1,n+1):
                 mat[r][c]+=mat[r][c-1]
-        print(mat)
+        # print(mat)
         return [row[:-1] for row in mat[:-1]]
 
 # [1 0 -1 0]
