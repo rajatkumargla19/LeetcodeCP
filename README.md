@@ -90,6 +90,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -168,6 +169,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -200,6 +202,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2429-design-a-food-rating-system](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -321,6 +324,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2692-take-gifts-from-the-richest-pile) |
