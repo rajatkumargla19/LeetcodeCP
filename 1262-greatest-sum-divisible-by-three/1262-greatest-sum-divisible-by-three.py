@@ -16,11 +16,10 @@ class Solution:
         if rem==1:
             result1=float("inf") if len(rem1)==0 else  rem1[0] 
             result2=float("inf") if len(rem2)<=1 else  rem2[0]+rem2[1]
-            result=min(result1,result2)
+            # result=min(result1,result2)
         elif rem==2:
             result1=float('inf') if len(rem1)<=1 else  rem1[0]+rem1[1]
             result2=float('inf') if len(rem2)==0 else rem2[0]
-            result=min(result1,result2)
-        
+        result=min(result1,result2)
         return sm-result
         
