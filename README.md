@@ -66,6 +66,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -165,6 +166,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -289,6 +291,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -436,6 +439,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [1020-longest-turbulent-subarray](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1020-longest-turbulent-subarray) |
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
