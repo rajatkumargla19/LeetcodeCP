@@ -139,6 +139,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
@@ -224,6 +225,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3827-implement-router) |
@@ -403,6 +405,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3462-vowels-game-in-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3830-find-closest-person) |
@@ -534,4 +537,5 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
