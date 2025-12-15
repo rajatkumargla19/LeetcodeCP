@@ -87,6 +87,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -398,6 +399,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -463,6 +465,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Enumeration
