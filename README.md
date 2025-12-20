@@ -10,6 +10,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -63,6 +64,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0717-1-bit-and-2-bit-characters](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0830-largest-triangle-area) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1018-binary-prefix-divisible-by-5) |
