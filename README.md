@@ -74,6 +74,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1470-shuffle-the-array) |
@@ -298,6 +299,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -339,6 +341,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
