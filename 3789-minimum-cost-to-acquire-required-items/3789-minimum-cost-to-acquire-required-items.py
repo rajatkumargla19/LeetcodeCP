@@ -3,9 +3,7 @@ class Solution:
         res=0
         if (cost1+cost2>costBoth):
             res+=min(need1,need2)*costBoth
-            if need1>need2:
-                res+=(need1-need2)*min(cost1,costBoth)
+            if need1>need2:res+=(need1-need2)*min(cost1,costBoth)
             else:res+=(need2-need1)*min(cost2,costBoth)
-        else:
-            res+=need1*cost1+need2*cost2
-        return res
+            return res
+        else:return need1*cost1+need2*cost2
