@@ -75,6 +75,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1063-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -416,6 +417,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0909-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1448-maximum-69-number) |
@@ -581,5 +583,6 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
