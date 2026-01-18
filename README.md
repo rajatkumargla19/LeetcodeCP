@@ -132,6 +132,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -433,6 +434,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3321-type-of-triangle) |
@@ -584,5 +586,6 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0830-largest-triangle-area](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
