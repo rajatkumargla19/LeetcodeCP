@@ -146,6 +146,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3321-type-of-triangle) |
+| [3379-transformed-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3379-transformed-array) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -383,6 +384,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3336-water-bottles-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
