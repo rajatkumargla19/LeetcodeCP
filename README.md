@@ -18,6 +18,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2211-count-collisions-on-a-road](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-count-collisions-on-a-road) |
@@ -468,6 +469,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2211-count-collisions-on-a-road](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2211-count-collisions-on-a-road) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -518,6 +520,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
