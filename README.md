@@ -177,6 +177,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -611,4 +612,8 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1266-minimum-time-visiting-all-points](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
