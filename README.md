@@ -179,6 +179,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0190-reverse-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
+| [0401-binary-watch](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0401-binary-watch) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -573,6 +574,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Queue
