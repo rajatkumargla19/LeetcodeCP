@@ -181,6 +181,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0231-power-of-two](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
