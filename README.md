@@ -8,6 +8,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0165-compare-version-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0165-compare-version-numbers) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0761-special-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0944-delete-columns-to-make-sorted) |
@@ -205,6 +206,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
+| [0761-special-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -626,4 +628,5 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
