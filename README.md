@@ -96,6 +96,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1590-make-sum-divisible-by-p](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1656-count-good-triplets) |
+| [1734-decode-xored-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1734-decode-xored-permutation) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -188,6 +189,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1734-decode-xored-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1734-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2509-minimize-xor) |
