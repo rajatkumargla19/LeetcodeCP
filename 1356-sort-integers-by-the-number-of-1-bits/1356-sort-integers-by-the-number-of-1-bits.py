@@ -1,21 +1,20 @@
 class Solution:
     def count_setBits(self,x):
-        count=0
+        setBits=0
         while x:
-            if x%2:count+=1
+            if x%2:setBits+=1
             x//=2
-        return count
+        return setBits
     def sortByBits(self, arr: List[int]) -> List[int]:
         arr.sort()
-        arr_by_bit=[[] for i in range(32)]
+        arr_bitwise=[[] for i in range(32)]
         n=len(arr)
         for i in range(n):
-            arr_by_bit[Solution().count_setBits(arr[i])].append(arr[i])
-        # print(arr_by_bit)
+            arr_bitwise[Solution().count_setBits(arr[i])].append(arr[i])
         res=[]
         for i in range(32):
-            for j in range( len(arr_by_bit[i])  ):
-                res.append(arr_by_bit[i][j])
+            for j in range( len(arr_bitwise[i])  ):
+                res.append(arr_bitwise[i][j])
         return res
         
 
