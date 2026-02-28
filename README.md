@@ -189,6 +189,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1018-binary-prefix-divisible-by-5](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1734-decode-xored-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1734-decode-xored-permutation) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -393,6 +394,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2048-build-array-from-permutation) |
 | [2169-simple-bank-system](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2169-simple-bank-system) |
@@ -459,6 +461,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1642-water-bottles) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
