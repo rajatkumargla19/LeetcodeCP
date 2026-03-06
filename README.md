@@ -23,6 +23,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2124-check-if-all-as-appears-before-all-bs) |
