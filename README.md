@@ -154,6 +154,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3291-find-if-array-can-be-sorted) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3321-type-of-triangle) |
@@ -349,6 +350,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3827-implement-router](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3827-implement-router) |
@@ -380,6 +382,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3074-apple-redistribution-into-boxes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -446,6 +449,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -482,6 +486,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3432-count-partitions-with-even-sum-difference) |
