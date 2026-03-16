@@ -105,6 +105,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1980-find-unique-binary-string) |
@@ -226,6 +227,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
@@ -394,6 +396,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0498-diagonal-traverse](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -430,6 +433,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1477-product-of-the-last-k-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1590-make-sum-divisible-by-p) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2358-number-of-ways-to-split-array) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -445,6 +449,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2429-design-a-food-rating-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -476,6 +481,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1642-water-bottles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
