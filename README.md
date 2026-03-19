@@ -148,6 +148,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -402,6 +403,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2625-increment-submatrices-by-one) |
 | [2685-first-completely-painted-row-or-column](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2685-first-completely-painted-row-or-column) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
@@ -441,6 +443,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2625-increment-submatrices-by-one](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2625-increment-submatrices-by-one) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
