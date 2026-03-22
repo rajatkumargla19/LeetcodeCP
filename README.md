@@ -106,6 +106,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1980-find-unique-binary-string) |
@@ -403,6 +404,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0840-magic-squares-in-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2089-maximum-matrix-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2089-maximum-matrix-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
