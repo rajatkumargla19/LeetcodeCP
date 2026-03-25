@@ -172,6 +172,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3546-equal-sum-grid-partition-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -415,6 +416,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
@@ -461,6 +463,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3427-special-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3546-equal-sum-grid-partition-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Heap (Priority Queue)
@@ -596,6 +599,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1925-count-square-sum-triples](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2215-finding-3-digit-even-numbers) |
+| [3546-equal-sum-grid-partition-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3546-equal-sum-grid-partition-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
