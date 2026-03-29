@@ -39,6 +39,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2483-minimum-penalty-for-a-shop](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3396-valid-word) |
