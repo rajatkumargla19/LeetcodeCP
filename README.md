@@ -187,6 +187,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3637-trionic-array-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3748-sort-matrix-by-diagonals) |
@@ -443,6 +444,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3379-transformed-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Prefix Sum
@@ -687,4 +689,5 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0190-reverse-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
