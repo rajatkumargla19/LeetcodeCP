@@ -106,6 +106,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1734-decode-xored-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1734-decode-xored-permutation) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
