@@ -535,6 +535,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3623-count-number-of-trapezoids-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3783-mirror-distance-of-an-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
