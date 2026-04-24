@@ -41,6 +41,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2580-circular-sentence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3194-find-words-containing-character](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3194-find-words-containing-character) |
@@ -323,6 +324,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3872-find-most-frequent-vowel-and-consonant) |
