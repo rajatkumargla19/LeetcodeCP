@@ -11,6 +11,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0657-robot-return-to-origin](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
@@ -56,6 +57,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1508-longest-happy-prefix) |
 ## Array
