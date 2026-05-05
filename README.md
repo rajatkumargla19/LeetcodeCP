@@ -356,6 +356,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0202-happy-number) |
@@ -689,6 +690,7 @@ A directory containing all the beautiful codes written by me. These problems con
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
