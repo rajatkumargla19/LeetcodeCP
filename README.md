@@ -68,6 +68,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0075-sort-colors](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0204-count-primes](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0396-rotate-function](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0396-rotate-function) |
@@ -377,6 +378,7 @@ A directory containing all the beautiful codes written by me. These problems con
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
