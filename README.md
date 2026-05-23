@@ -111,6 +111,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1656-count-good-triplets) |
 | [1734-decode-xored-permutation](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1734-decode-xored-permutation) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1848-minimum-distance-to-the-target-element) |
