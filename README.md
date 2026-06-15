@@ -379,6 +379,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2232-adding-spaces-to-a-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -713,6 +714,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0061-rotate-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
