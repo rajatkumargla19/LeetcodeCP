@@ -50,6 +50,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3451-string-compression-iii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3462-vowels-game-in-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -483,6 +484,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [3336-water-bottles-ii](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3612-process-string-with-special-operations-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
