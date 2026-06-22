@@ -16,6 +16,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0944-delete-columns-to-make-sorted](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
+| [1189-maximum-number-of-balloons](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -298,6 +299,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -340,6 +342,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
+| [1189-maximum-number-of-balloons](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1510-find-lucky-integer-in-an-array) |
