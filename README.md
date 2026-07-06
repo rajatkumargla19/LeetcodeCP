@@ -98,6 +98,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [1200-minimum-absolute-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1288-remove-covered-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -260,6 +261,7 @@ A directory containing all the beautiful codes written by me. These problems con
 | [0900-reordered-power-of-2](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/0900-reordered-power-of-2) |
 | [1200-minimum-absolute-difference](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/rajatkumargla19/LeetcodeCP/tree/master/1833-maximum-ice-cream-bars) |
